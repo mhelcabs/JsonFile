@@ -1,0 +1,17 @@
+profile ={ 
+	"FName" : "Millan"
+	"LName" : "Cabactulan"
+	"BirthDay" : "September 25, 1979"
+	"Age" : "44"
+	"Gender" : "Male"
+	"NickName" : "Mhelcabs"
+      },
+
+	{
+	"FName" : "Rusan"
+	"LName" : "Cabactulan"
+	"BirthDay" : "September 8, 1981"
+	"Age" : "42"
+	"Gender" : "Female"
+	"NickName" : "Mylah"
+      }
