@@ -1,1 +1,26 @@
-'{"FName":"Millan","LName":"Cabactulan","BirthDay":"9-25-1979","Age":44,"Gender":"Male","NickName": "Mhelcabs"}'
+[
+	{
+		"firstName": "Millan",
+		"lastName": "Cabactulan",
+		"gender": "male",
+		"age": 44,
+		"birthday": "9-25-1979",
+		"married":true
+	},
+	{
+		"firstName": "Miro",
+		"lastName": "Cabactulan",
+		"gender": "male",
+		"age": 48,
+		"birthday": "12-6-1975",
+		"married":true
+	},
+	{
+		"firstName": "Nia Jan",
+		"lastName": "Cabactulan",
+		"gender": "female",
+		"age": 11,
+		"birthday": "1-8-2013",
+		"married":false
+	}
+]
