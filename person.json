@@ -1,24 +1,24 @@
-{ 
-	"FName" : "Millan"
-	"LName" : "Cabactulan"
-	"BirthDay" : "September 25, 1979"
-	"Age" : "44"
-	"Gender" : "Male"
-	"NickName" : "Mhelcabs"
+pers1={ 
+	"FName" : "Millan",
+	"LName" : "Cabactulan",
+	"BirthDay" : "September 25, 1979",
+	"Age" : "44",
+	"Gender" : "Male",
+	"NickName" : "Mhelcabs",
 }
-{
-	"FName" : "Rusan"
-	"LName" : "Cabactulan"
-	"BirthDay" : "September 8, 1981"
-	"Age" : "42"
-	"Gender" : "Female"
-	"NickName" : "Mylah"
+pers2={
+	"FName" : "Rusan",
+	"LName" : "Cabactulan",
+	"BirthDay" : "September 8, 1981",
+	"Age" : "42",
+	"Gender" : "Female",
+	"NickName" : "Mylah",
 }
-{
-	"FName" : "Nia Jan"
-	"LName" : "Cabactulan"
-	"BirthDay" : "January 8, 2013"
-	"Age" : "aa"
-	"Gender" : "Female"
-	"NickName" : "NJ"
+pers3={
+	"FName" : "Nia Jan",
+	"LName" : "Cabactulan",
+	"BirthDay" : "January 8, 2013",
+	"Age" : "11"
+	"Gender" : "Female",
+	"NickName" : "NJ",
 }
